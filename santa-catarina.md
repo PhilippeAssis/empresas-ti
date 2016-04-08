@@ -6,3 +6,6 @@
 ## Joinville
 * [Collabo](https://www.collabo.com.br/)
 * [Humantech](https://www.humantech.com.br/)
+
+## Itajai
+* [Wiidoo](http://www.wiidoo.com.br)
